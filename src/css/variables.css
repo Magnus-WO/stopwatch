@@ -1,0 +1,22 @@
+:root {
+  /* colors */
+  --primary-color: #d8b308;
+  --secondary-color: #483248;
+
+  /* spacing */
+  --spacing-small: 0.5rem;
+  --spacing-medium: 1rem;
+  --spacing-large: 2rem;
+  --spacing-x-large: 3rem;
+
+  /* font-size */
+  --font-size-x-small: 0.5rem;
+  --font-size-small: 1rem;
+  --font-size-medium: 1.5rem;
+  --font-size-large: 2rem;
+  --font-size-x-large: 3rem;
+  --font-size-2x-large: 4rem;
+
+  /* borders */
+  --border-radius: 4px;
+}
